@@ -1,2 +1,1 @@
-# WTH
-WTH
+Some information about me.
